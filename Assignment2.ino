@@ -13,7 +13,7 @@ const int buttonPin = 12; // Digital pin for Button
 const int ledPin = 13;    // Digital pin for LED street light
 
 // 3. System Constants
-const int THRESHOLD = 750; // Threshold matching your data3.py
+const int THRESHOLD = 750; 
 
 WiFiClient espClient;
 PubSubClient client(espClient);
