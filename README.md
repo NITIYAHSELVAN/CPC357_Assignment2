@@ -48,10 +48,13 @@ In modern urban infrastructure, energy efficiency is key. This system automates 
 ## 🔒 Security
 Data security is handled via **Identity and Access Management (IAM)** and encrypted API calls to BigQuery. The system utilizes a secure JSON key for authentication and firewall rules to restrict network access to the MQTT broker and the web dashboard.
 
+<img width="1918" height="1078" alt="0 (2)" src="https://github.com/user-attachments/assets/8503518c-370e-48f4-afb4-496d3aa360ca" />
 
 
-<img width="1918" height="1078" alt="0 (2)" <img width="1918" height="1020" alt="0" src="https://github.com/user-attachments/assets/0b39c1ee-969a-496a-843f-a1ec4ddb32b2" />
-src="https://github.com/user-attachments/assets/b956b610-5364-4b25-be6c-e644009a48fa" /><img width="1908" height="1013" alt="0 (1)" src="https://github.com/user-attachments/assets/25357870-5a00-405e-b16e-10bbc2e836c3" />
 
 
+<img width="1908" height="1013" alt="0 (1)" src="https://github.com/user-attachments/assets/b39a563c-f134-4dbd-a2ef-c0c6377ca1e4" />
+
+
+<img width="1918" height="1020" alt="0" src="https://github.com/user-attachments/assets/f6d250cd-2aae-4685-be90-c89adb6207b1" />
 
